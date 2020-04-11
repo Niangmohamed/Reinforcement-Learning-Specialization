@@ -11,4 +11,4 @@ This course introduces you to the fundamentals of Reinforcement Learning. When y
 - Understand value functions, as a general-purpose tool for optimal decision-making
 - Know how to implement dynamic programming as an efficient solution approach to an industrial control problem
 
-This course teaches you the key concepts of Reinforcement Learning, underlying classic and modern algorithms in RL. After completing this course, you will be able to start using RL for real problems, where you have or can specify the MDP. 
+This course teaches you the key concepts of Reinforcement Learning, underlying classic and modern algorithms in RL. After completing this course, you will be able to start using RL for real problems, where you have or can specify the MDP.  
