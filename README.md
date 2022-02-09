@@ -6,12 +6,12 @@
 
 <p align='justify'>This course introduces you to the fundamentals of Reinforcement Learning. When you finish this course, you will:</p>
 
-- Formalize problems as Markov Decision Processes 
+- Formalize problems as Markov Decision Processes;
 
-- Understand basic exploration methods and the exploration/exploitation tradeoff
+- Understand basic exploration methods and the exploration/exploitation tradeoff;
 
-- Understand value functions, as a general-purpose tool for optimal decision-making
+- Understand value functions, as a general-purpose tool for optimal decision-making;
 
-- Know how to implement dynamic programming as an efficient solution approach to an industrial control problem
+- Know how to implement dynamic programming as an efficient solution approach to an industrial control problem.
 
 <p align='justify'>This course teaches you the key concepts of Reinforcement Learning, underlying classic and modern algorithms in RL. After completing this course, you will be able to start using RL for real problems, where you have or can specify the MDP.</p>
